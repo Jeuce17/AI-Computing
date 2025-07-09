@@ -1,1 +1,2 @@
 # AI-Computing
+Notes here
